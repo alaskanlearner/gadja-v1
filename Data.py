@@ -11,7 +11,7 @@ class Data:
 👩‍💻 VIP Gratis : <a href='https://bit.ly/gacolersmisi'>Bot_Promo</a>\n
 👨‍💻 Asupan Gratis: </b><a href='https://t.me/gacolers_portal'>@gacolers_portal</a>
 """
-
+ 
     close = [
         [InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")]
     ]
