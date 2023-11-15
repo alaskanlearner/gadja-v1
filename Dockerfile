@@ -23,7 +23,8 @@ RUN pip install -U pip
 # INSTALL REQUIREMENTS
 RUN pip install -U \
                 --no-cache-dir \
-                -r requirements.txt
+                -r requirements.txt \
+                requests
 
 # COMMAND TO RUN
 CMD ["python", "main.py"]
