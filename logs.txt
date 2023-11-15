@@ -610,3 +610,40 @@ Jika @masgacoresmi Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/S
 [INFO] - bot - Bot Stopped!
 
 
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: 𝙰𝚂𝚄𝙿𝙰𝙽 𝙶𝙰𝙲𝙾𝙻𝙴𝚁𝚂 𝚅𝙸𝙿
+└ Username: @konsumsimasgacor1bot
+——
+[INFO] - bot - FORCE_SUB_1 Detected!
+┌ Title: 𝙿𝙾𝚁𝚃𝙰𝙻 𝙼𝙰𝚂 𝙶𝙰𝙲𝙾𝚁 𝙿𝚁𝙸𝙳𝙴
+└ Chat ID: -1002033198199
+
+——
+[INFO] - bot - FORCE_SUB_2 Detected!
+┌ Title: ᴍᴀs ɢᴀᴄᴏʀ ᴏғғɪᴄɪᴀʟ
+└ Chat ID: -1001908767450
+
+——
+[INFO] - bot - FORCE_SUB_3 Detected!
+┌ Title: 𝐓𝐄𝐒𝐓𝐈𝐌𝐎𝐍𝐈 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐒 𝐆𝐀𝐂𝐎𝐑
+└ Chat ID: -1001969438306
+
+——
+[INFO] - bot - FORCE_SUB_4 Detected!
+┌ Title: ʟɪɴᴋ ᴠɪᴘ ᴍᴀs ɢᴀᴄᴏʀ
+└ Chat ID: -1002101675642
+
+——
+[INFO] - bot - CHANNEL_DB Detected!
+┌ Title: dtb
+└ Chat ID: -1001826123739
+
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @masgacoresmi
+Jika @masgacoresmi Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - root - Stop signal received (SIGINT). Exiting...
+[INFO] - bot - Bot Stopped!
+
+
